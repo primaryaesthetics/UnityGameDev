@@ -1,3 +1,3 @@
 # UnityGameDev
-hello world!\n
+hello world!
 how are you
